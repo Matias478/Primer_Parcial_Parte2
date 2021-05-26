@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1622037905 source:d:\codeblocks\proyectos\parcial_moto_1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"moto.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"fecha.h"
+	"validaciones.h"
+	"dataBank.h"
+	"informes.h"
+
+1622038583 d:\codeblocks\proyectos\parcial_moto_1a\moto.h
+	"tipo.h"
+	"color.h"
+
+1622038583 d:\codeblocks\proyectos\parcial_moto_1a\tipo.h
+
+1622038583 d:\codeblocks\proyectos\parcial_moto_1a\color.h
+
+1622038583 d:\codeblocks\proyectos\parcial_moto_1a\servicio.h
+
+1621810155 d:\codeblocks\proyectos\parcial_moto_1a\trabajo.h
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"moto.h"
+
+1621993573 d:\codeblocks\proyectos\parcial_moto_1a\fecha.h
+
+1621814470 source:d:\codeblocks\proyectos\parcial_moto_1a\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1621818038 source:d:\codeblocks\proyectos\parcial_moto_1a\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"moto.h"
+	"validaciones.h"
+
+1621815385 source:d:\codeblocks\proyectos\parcial_moto_1a\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1622036343 source:d:\codeblocks\proyectos\parcial_moto_1a\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1621809991 source:d:\codeblocks\proyectos\parcial_moto_1a\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajo.h"
+
+1621811646 d:\codeblocks\proyectos\parcial_moto_1a\validaciones.h
+
+1621811646 source:d:\codeblocks\proyectos\parcial_moto_1a\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621993158 source:d:\codeblocks\proyectos\parcial_moto_1a\databank.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dataBank.h"
+
+1622030597 d:\codeblocks\proyectos\parcial_moto_1a\databank.h
+	"moto.h"
+	"trabajo.h"
+
+1622037795 source:d:\codeblocks\proyectos\parcial_moto_1a\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+
+1622036869 d:\codeblocks\proyectos\parcial_moto_1a\informes.h
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"moto.h"
+	"trabajo.h"
+
+1621993573 source:d:\codeblocks\proyectos\parcial_moto_1a\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
